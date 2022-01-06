@@ -1,2 +1,4 @@
 # Huddle-Landing-Page
-Frontend Mentor project
+Frontend Mentor challenge
+
+https://frontend-huddle-landing-page.netlify.app/
